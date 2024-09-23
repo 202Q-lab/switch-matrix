@@ -1,0 +1,11 @@
+Manufacturer Part Number;Description;Reference Designator;Quantity;Manufacturer;Package
+SM4002PL-TP;Rectifiers Standard 100V 1A ;D24,D3,D20,D19,D16,D10,D18,D21,D6,D14,D2,D23,D13,D5,D1,D4,D7,D17,D15,D8,D11,D22,D12,D9;24;Micro Commercial Components (MCC) ; SOD-123F 
+ULN2003D1013TR ;50-V, 7-ch darlington transistor array, -20C to 70C;U3,U1,U2;3;Texas Instruments;SOIC-16
+1729173;Fixed Terminal Blocks 7P 5.08mm 90DEG ;J6,J2,J4;3;Phoenix Contact;Connector
+TMUX1248DCKR;3-? low RON, 5-V, 2:1 (SPDT) general purpose switch with 3157 pinout;SPDT14,SPDT2,SPDT13,SPDT5,SPDT9,SPDT12,SPDT1,SPDT8,SPDT17,SPDT16,SPDT10,SPDT4,SPDT7,SPDT18,SPDT15,SPDT11,SPDT6,SPDT3;18;Texas Instruments;6-TSSOP 
+22-28-4023;KK 254 Breakaway Header, Vertical, 2 Circuits, 0.38µm Gold (Au) Selective Plating, Mating Pin Length 6.09mm;PWR_L1,PWR_H1;2;Molex;Connector
+TMUX7219DGKRQ1;Analogue Switch ICs Automotive 36-V, low Ron, 2:1 (SPDT) switch with 1.8-V logic ;IC3,IC7,IC1,IC9,IC6,IC4;6;Texas Instruments;  8-SSOP 
+TBD62781AFWG,EL ;8-ch source type DMOS transistor array;IC2,IC5,IC8;3;Toshiba;PSOP-18
+39-28-1023;Mini-Fit Jr. Vertical Header, 4.20mm Pitch, Dual Row, 2 Circuits, without Snap-in Plastic Peg PCB Lock, Tin, Natural;PWR_H2;1;Molex;Connector
+22-28-4083;KK 254 Breakaway Header, Vertical, 8 Circuits, 0.38µm Gold (Au) Selective Plating, Mating Pin Length 6.09mm;J3,J1,J5;3;Molex;Connector
+S1751-46R;SMD Test Points;TG,TP32,TP21,TP12,TP11,TP31,TP22;7;Harwin;

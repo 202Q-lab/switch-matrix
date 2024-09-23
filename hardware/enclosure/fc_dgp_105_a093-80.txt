@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-12042011-085529";"";
+"REFERENCE";"DGP 105 A093-80";"";
+"TraceParts.PartTitle";"Panel Rear Mounted Completely Threaded Receptacles with PCB Contacts - DGP 105 A093-80";"";
+"TraceParts.InstanceId";"10-12042011-085529CTS76CASDWS6XZDFKLWHPQH0Q";"";
+"DESIGN";"Panel Rear Mounted Completely Threaded Receptacles with PCB Contacts - DGP 105 A093-80";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Fischer Connectors";"";
+"TraceParts.PartVersion";"1.1.8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"FISCHER_CONNECTORS:10-12042011-085529";"";
