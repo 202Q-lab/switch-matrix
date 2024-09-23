@@ -35,7 +35,7 @@ These commands are primarily used to change the Ethernet settings of the device,
 
 ## Control commands
 
-These commands control the operation of the switch matrix. Individual switches are addressed through subcommands of the `SWitch#` command, where `#` is an integer. How many switches are available is depends on the chosen firmware configuration, set when flashing the microcontroller firmware during [assembly](/assembly#flashing-the-firmware).
+These commands control the operation of the switch matrix. Individual switches are addressed through subcommands of the `SWitch#` command, where `#` is an integer. How many switches are available is depends on the chosen firmware configuration, set when flashing the microcontroller firmware during [assembly](/assembly.md#flashing-the-firmware).
 
 - `*RST`: Resets all switches to have no connected ports
 - `SWitch#:PORT 0-6`: Connects the common pole of the switch to port 1-6. Set to 0 to open all ports. 

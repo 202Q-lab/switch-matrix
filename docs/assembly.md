@@ -47,7 +47,7 @@ With the Arduino IDE set up and the firmware `.ino` file open:
 5. **Change the network settings:**
     1. Open the **Serial Monitor** by pressing the button in the top right of the Arduino IDE.
     2. Verify that the Serial communication is working and that the Arduino is running by sending the command `*IDN?`. The Arduino should respond with a string of the instrument ID.
-    3. You can now configure the Ethernet settings of the device by using the [configuration commands](/commands#configuration-commands). The relevant commands are `IP`, `DNS`, `GATEWAY` and `SUBNET`.
+    3. You can now configure the Ethernet settings of the device by using the [configuration commands](/commands.md#configuration-commands). The relevant commands are `IP`, `DNS`, `GATEWAY` and `SUBNET`.
 6. The Arduino microcontroller is now ready for use.
 
 ---

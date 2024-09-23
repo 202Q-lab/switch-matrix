@@ -27,9 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: 202Q-lab
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-minima
 
 # Exclude from processing.
 # The following items will not be processed, by default.

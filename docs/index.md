@@ -20,7 +20,7 @@ The distribution board was designed in [KiCad](https://www.kicad.org/), and the 
 
 ## Assembly
 
-If assembling the Switch Matrix yourself, the enclosure needs to machined to include the correct cutouts and the distribution board PCBs have to be manufactured. Several components also require soldering. `BOM.xlsx` lists all required components in order to assemble the switch. `enclosure.stp` is a STEP-file which defines the cutouts for the enclosure. With all the components sourced, you can assemble the device by following the [Assembly Instructions](/assembly).
+If assembling the Switch Matrix yourself, the enclosure needs to machined to include the correct cutouts and the distribution board PCBs have to be manufactured. Several components also require soldering. `BOM.xlsx` lists all required components in order to assemble the switch. `enclosure.stp` is a STEP-file which defines the cutouts for the enclosure. With all the components sourced, you can assemble the device by following the [Assembly Instructions](assembly.md).
 
 ## Terms of Use
 
