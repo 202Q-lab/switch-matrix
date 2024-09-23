@@ -22,8 +22,8 @@ title: 202Q Switch Matrix
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   The 202Q Switch Matrix is a device for digital control of multiple radio-frequency microwave latching switches, both at room- and cryogenic temperatures. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" 
+url: "https://202q-lab.github.io" 
 github_username: 202Q-lab
 
 # Build settings
