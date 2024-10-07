@@ -1,0 +1,18 @@
+Part,Amount,RS Components Part No.,Comment
+"nVent SCHROFF, 1U 19-Inch Rack Mount Case Interscale M Ventilated, 44 x 444 x 221mm",1,810-4377,
+Fischer DG 105 A093,1,,Order from Fischer
+"Hirschmann Test & Measurement Black Female Banana Socket - Solder Termination, 30 V ac, 60V dc, 32A",1,738-474,
+"Hirschmann Test & Measurement Red Female Banana Socket - Solder Termination, 30 V ac, 60V dc, 32A",1,738-480,
+RS PRO Female to Male RJ45 Connector Cat6,2,231-7897,
+"XP Power Encapsulated, Switching Power Supply, 9V dc, 1.67A, 15W",1,122-6587,
+"TE Connectivity 5A, 250 V ac Male Flange Mount IEC Filter 2 Pole 5EFM1S, Spade 1, 2 Fuse",1,782-1019,
+"RS PRO 1A T Glass Cartridge Fuse, 5 x 20mm",2,563-558,
+Distribution Board PCB,2,,See hardware documentation
+"Arduino, Mega 2560 Rev 3",2,715-4084,
+"Arduino, Ethernet Shield 2",2,873-2285,
+"4128-40, 200mm Jumper Wire Breadboard Jumper Wire in Black, Blue, Red, White, Yellow",160,204-8243,"Sold in packs of 40, so this is 4 packs."
+"Molex, Mini-Fit Jr Receptacle Connector Housing, 4.2mm Pitch, 2 Way, 2 Row",2,484-1748,
+"Molex Pre-Crimped Lead, 300mm, 16AWG, Black",4,233-4651,
+"Molex Pre-Crimped Lead, 300mm, 16AWG, Red",3,233-4665,
+nVent SCHROFF Adhesive Base Adhesive Base for Use with PCB,20,810-4535,"For mounting PCBs, Arduino and power supply"
+"Aim-TTi Bench Power Supply, 175W, 1 Output, 0 → 35V, 0 → 5A",1,790-4748,

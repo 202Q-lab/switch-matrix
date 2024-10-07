@@ -4,6 +4,8 @@ The 202Q Switch Matrix is a device for digital control of multiple radio-frequen
 
 ![Diagrammatic overview of the Switch Matrix](docs/device_overview.png)
 
+![Switch matrix image](docs/Switch_matrix_image.png)
+
 The full documentation for the Switch Matrix can be found as Markdown files in the `docs` folder, or online [here](https://202q-lab.github.io/switch-matrix/).
 
 ## Operating Principle

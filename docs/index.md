@@ -6,7 +6,9 @@ The 202Q Switch Matrix is a device for digital control of multiple radio-frequen
 
 ![Diagrammatic overview of the Switch Matrix](device_overview.png)
 
-The Switch Matrix is designed and tested for Radiall R573433600 SP6T Latching switches and Radiall R570413000 SPDT Latching switches. The enclosure is designed to house one SP6T switch and 12 SPDT switches. It also includes a Fischer connector in the back panel to allow for control of external switches. It should be noted that the Power Supply is external and not integrated in the enclosure itself.
+![Switch Matrix picture](Switch_matrix_image.img)
+
+The Switch Matrix is designed and tested for [Radiall R591763600 SP6T switches](https://www.radiall.com/sp6t-subminiature-sma-26-5ghz-latching-separated-reset-28vdc-pins-terminals-double-row-r591763600.html). The enclosure is designed to house one SP6T switch and 12 SPDT switches. It also includes a Fischer connector in the back panel to allow for control of external switches. It should be noted that the Power Supply is external and not integrated in the enclosure itself.
 
 ## Operating Principle
 
